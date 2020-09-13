@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "golf1052.DiscordAPI", "golf1052.DiscordAPI\golf1052.DiscordAPI.csproj", "{46F92699-DD37-4AB7-BF16-DDBB1062FF26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F92699-DD37-4AB7-BF16-DDBB1062FF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F92699-DD37-4AB7-BF16-DDBB1062FF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F92699-DD37-4AB7-BF16-DDBB1062FF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F92699-DD37-4AB7-BF16-DDBB1062FF26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBDA27EB-A667-4B6D-B020-09E9D9F9AC58}
+	EndGlobalSection
+EndGlobal
